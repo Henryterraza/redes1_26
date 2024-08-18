@@ -28,4 +28,3 @@
 ## Demostración de la captura de un paquete ARP/ICMP (solo 1 en general), incluyendo captura de pantalla. 
 
 ![](/practica1/img/Captura%20desde%202024-08-17%2022-25-52.png)
-s
